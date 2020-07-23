@@ -1,0 +1,6 @@
+ Este es un archivo de texto plano
+
+ La idea es probar GIT
+
+
+ Soy Nicolas y tengo 35 años.
