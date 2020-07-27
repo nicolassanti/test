@@ -3,4 +3,6 @@ Este es un archivo de prueba.
 Soy Nicolas, tengo 35 años y estoy aprendiendo GIT.
 Mido 1.70 y me gusta la programación.
 
+Me encuentro trabajando en una empresa de telecomunicaciones.
+
 Nos vemos! 
