@@ -1,6 +1,5 @@
 Este es un archivo de prueba.
 
-Soy Nicolas, tengo 33 años y estoy aprendiendo ingles.
+Soy Nicolas, tengo 35 años y estoy aprendiendo GIT.
 
-
-Nos vemmos!
+Nos vemos! 
