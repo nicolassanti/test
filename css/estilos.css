@@ -1,5 +1,5 @@
 body{
-    background-color: aquamarine;
+    background-color: whitesmoke;
     text-align: center;
 }
 
@@ -15,12 +15,13 @@ h3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-
 p{
     size: 2%;
-    color: blue;
+    color: black;
+    text-align: justify;
+
 }
 
 .sarasa{
-    color: green;
+    color: red;
 }
