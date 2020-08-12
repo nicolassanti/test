@@ -6,6 +6,13 @@ body{
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.cabecera{
+    background-color: burlywood;
+    width: 25%;
+    margin-left: 35%;
+    border-radius: 5px;
+    border-color: burlywood;
+}
 
 h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
